@@ -24,3 +24,4 @@ It allows users to create a bank account, deposit and withdraw money, check thei
 
 ## Sample Image 
 
+![img](https://github.com/foreverxhb/Bank-Account-Simulation/blob/dbfb69cc9584d9046e8f8a32d098dc3cac88e346/Screenshot%202025-08-11%20220004.png)
